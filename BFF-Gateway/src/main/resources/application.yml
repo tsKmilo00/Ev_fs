@@ -1,0 +1,51 @@
+server:
+  port: 8000
+
+spring:
+  application:
+    name: bff-gateway
+  cloud:
+    gateway:
+      globalcors:
+        corsConfigurations:
+          '[/**]':
+            allowedOrigins: "*"
+            allowedMethods:
+              - GET
+              - POST
+              - PUT
+              - DELETE
+              - OPTIONS
+            allowedHeaders: "*"
+      routes:
+        - id: usuarios_route
+          uri: http://usuario-service:8080
+          predicates:
+            - Path=/api/usuarios/**
+        - id: reportes_route
+          uri: http://reportes-service:8081
+          predicates:
+            - Path=/api/reportes/**
+        - id: coincidencias_route
+          uri: http://coincidencias-service:8082
+          predicates:
+            - Path=/api/coincidencias/**
+        - id: notificaciones_route
+          uri: http://notificaciones-app:8083
+          predicates:
+            - Path=/api/notificaciones/**
+        - id: geolocalizacion_route
+          uri: http://geolocalizacion-app:8084
+          predicates:
+            - Path=/api/geolocalizacion/**
+        - id: identificacion_route
+          uri: http://identificacion-acceso-app:8085
+          predicates:
+            - Path=/api/identificacion/**,/api/auth/**
+        - id: mascotas_route
+          uri: http://mascotas-app:8086
+          predicates:
+            - Path=/api/mascotas/**
+
+jwt:
+  secret: 4f7a2a5e8c4d9b1a3f6e8b2c5d7a9b1c3f5e8b2c4d7a9b1c3f6e8b2c5d7a9b1c
