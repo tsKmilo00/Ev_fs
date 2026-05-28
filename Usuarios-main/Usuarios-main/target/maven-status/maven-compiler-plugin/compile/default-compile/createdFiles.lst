@@ -1,0 +1,10 @@
+com\SanosySalvos\Usuarios\model\RolUsuario.class
+com\SanosySalvos\Usuarios\model\Usuario.class
+com\SanosySalvos\Usuarios\dto\LoginRequestDTO.class
+com\SanosySalvos\Usuarios\UsuariosApplication.class
+com\SanosySalvos\Usuarios\service\impl\UsuarioServiceImpl.class
+com\SanosySalvos\Usuarios\dto\AuthResponseDTO.class
+com\SanosySalvos\Usuarios\repository\UsuarioRepository.class
+com\SanosySalvos\Usuarios\service\AuthClient.class
+com\SanosySalvos\Usuarios\controller\UsuarioController.class
+com\SanosySalvos\Usuarios\service\UsuarioService.class
