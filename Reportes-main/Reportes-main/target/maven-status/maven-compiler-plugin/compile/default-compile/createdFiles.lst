@@ -1,0 +1,16 @@
+com\SanosySalvos\Reportes\service\NotificacionClient.class
+com\SanosySalvos\Reportes\service\ReporteService.class
+com\SanosySalvos\Reportes\service\CoincidenciaClient.class
+com\SanosySalvos\Reportes\service\UsuarioClient.class
+com\SanosySalvos\Reportes\model\TipoReporte.class
+com\SanosySalvos\Reportes\dto\ReporteResponseDTO.class
+com\SanosySalvos\Reportes\controller\ReporteController.class
+com\SanosySalvos\Reportes\model\EstadoReporte.class
+com\SanosySalvos\Reportes\repository\ReporteRepository.class
+com\SanosySalvos\Reportes\ReportesApplication.class
+com\SanosySalvos\Reportes\dto\ReporteRequestDTO.class
+com\SanosySalvos\Reportes\dto\ReporteCruzeDTO.class
+com\SanosySalvos\Reportes\model\Reporte.class
+com\SanosySalvos\Reportes\service\impl\ReporteServiceImpl.class
+com\SanosySalvos\Reportes\dto\NotificacionRequestDTO.class
+com\SanosySalvos\Reportes\dto\AnalisisRequestDTO.class

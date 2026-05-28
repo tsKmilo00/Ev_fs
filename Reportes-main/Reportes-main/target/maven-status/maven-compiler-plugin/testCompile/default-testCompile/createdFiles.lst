@@ -1,0 +1,5 @@
+com\SanosySalvos\Reportes\controller\ReporteControllerTest.class
+com\SanosySalvos\Reportes\service\ReporteServiceImplTest.class
+com\SanosySalvos\Reportes\service\CoincidenciaClientTest.class
+com\SanosySalvos\Reportes\ReportesApplicationTests.class
+com\SanosySalvos\Reportes\service\UsuarioClientTest.class

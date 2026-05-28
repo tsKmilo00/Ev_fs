@@ -1,0 +1,16 @@
+C:\Users\elcam\OneDrive\Desktop\micros\Reportes-main\Reportes-main\src\main\java\com\SanosySalvos\Reportes\controller\ReporteController.java
+C:\Users\elcam\OneDrive\Desktop\micros\Reportes-main\Reportes-main\src\main\java\com\SanosySalvos\Reportes\dto\AnalisisRequestDTO.java
+C:\Users\elcam\OneDrive\Desktop\micros\Reportes-main\Reportes-main\src\main\java\com\SanosySalvos\Reportes\dto\NotificacionRequestDTO.java
+C:\Users\elcam\OneDrive\Desktop\micros\Reportes-main\Reportes-main\src\main\java\com\SanosySalvos\Reportes\dto\ReporteCruzeDTO.java
+C:\Users\elcam\OneDrive\Desktop\micros\Reportes-main\Reportes-main\src\main\java\com\SanosySalvos\Reportes\dto\ReporteRequestDTO.java
+C:\Users\elcam\OneDrive\Desktop\micros\Reportes-main\Reportes-main\src\main\java\com\SanosySalvos\Reportes\dto\ReporteResponseDTO.java
+C:\Users\elcam\OneDrive\Desktop\micros\Reportes-main\Reportes-main\src\main\java\com\SanosySalvos\Reportes\model\EstadoReporte.java
+C:\Users\elcam\OneDrive\Desktop\micros\Reportes-main\Reportes-main\src\main\java\com\SanosySalvos\Reportes\model\Reporte.java
+C:\Users\elcam\OneDrive\Desktop\micros\Reportes-main\Reportes-main\src\main\java\com\SanosySalvos\Reportes\model\TipoReporte.java
+C:\Users\elcam\OneDrive\Desktop\micros\Reportes-main\Reportes-main\src\main\java\com\SanosySalvos\Reportes\ReportesApplication.java
+C:\Users\elcam\OneDrive\Desktop\micros\Reportes-main\Reportes-main\src\main\java\com\SanosySalvos\Reportes\repository\ReporteRepository.java
+C:\Users\elcam\OneDrive\Desktop\micros\Reportes-main\Reportes-main\src\main\java\com\SanosySalvos\Reportes\service\CoincidenciaClient.java
+C:\Users\elcam\OneDrive\Desktop\micros\Reportes-main\Reportes-main\src\main\java\com\SanosySalvos\Reportes\service\impl\ReporteServiceImpl.java
+C:\Users\elcam\OneDrive\Desktop\micros\Reportes-main\Reportes-main\src\main\java\com\SanosySalvos\Reportes\service\NotificacionClient.java
+C:\Users\elcam\OneDrive\Desktop\micros\Reportes-main\Reportes-main\src\main\java\com\SanosySalvos\Reportes\service\ReporteService.java
+C:\Users\elcam\OneDrive\Desktop\micros\Reportes-main\Reportes-main\src\main\java\com\SanosySalvos\Reportes\service\UsuarioClient.java
